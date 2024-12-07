@@ -1,0 +1,3 @@
+# C-DAC-Project
+This project involves developing a Sensor Network System using the CAN protocol with STM32 and ESP32 controllers for real-time, reliable data communication. The system integrates sensors like DHT11 (temperature and humidity), PIR (motion detection), Flame Sensor, and MQ2 (air quality) to collect and process environmental data.
+Using IoT connectivity, data is transmitted to a cloud platform via the ESP32, enabling remote monitoring and analysis. The combination of the CAN protocol and IoT ensures efficient, error-free communication, making the system ideal for applications in industrial automation, smart homes, and environmental monitoring.
